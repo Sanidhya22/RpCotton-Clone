@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RpCotton-Clone/static/css/main.fe95117b.css",
+    "main.js": "/RpCotton-Clone/static/js/main.9ba69ba2.js",
+    "static/js/787.047e5713.chunk.js": "/RpCotton-Clone/static/js/787.047e5713.chunk.js",
+    "index.html": "/RpCotton-Clone/index.html",
+    "main.fe95117b.css.map": "/RpCotton-Clone/static/css/main.fe95117b.css.map",
+    "main.9ba69ba2.js.map": "/RpCotton-Clone/static/js/main.9ba69ba2.js.map",
+    "787.047e5713.chunk.js.map": "/RpCotton-Clone/static/js/787.047e5713.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe95117b.css",
+    "static/js/main.9ba69ba2.js"
+  ]
+}
